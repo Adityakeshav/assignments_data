@@ -54,10 +54,6 @@ To use this file:
 3. Add any specific error messages you encountered
 4. Update the verification section with your actual results
 
-## Screenshots
-
-![PostgreSQL Container Running](screenshots/postgres-container.png)  
-*PostgreSQL container status*
 
 ## Challenges
 
